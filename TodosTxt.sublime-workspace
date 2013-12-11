@@ -1,0 +1,1378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lat",
+				"lat2_rad"
+			],
+			[
+				"acce",
+				"accesscontrol-webapp-statistiques"
+			],
+			[
+				"pgsq",
+				"pgsql_major_version"
+			],
+			[
+				"feed",
+				"feed_config"
+			],
+			[
+				"shom",
+				"shomDallesB"
+			],
+			[
+				"litto",
+				"shomLitto3D"
+			],
+			[
+				"imageC",
+				"imageCache"
+			],
+			[
+				"image",
+				"imageCache"
+			],
+			[
+				"ima",
+				"imageCache"
+			],
+			[
+				"del",
+				"delete_url"
+			],
+			[
+				"imageCa",
+				"imageCacheSize"
+			],
+			[
+				"displ",
+				"displayableOnly"
+			],
+			[
+				"displa",
+				"displayableOnly"
+			],
+			[
+				"config",
+				"config_tables"
+			],
+			[
+				"server",
+				"server_root_password"
+			],
+			[
+				"mysql",
+				"mysql_connection_info"
+			],
+			[
+				"exec",
+				"executeCommand"
+			],
+			[
+				"left",
+				"leftTileEdge"
+			],
+			[
+				"uv",
+				"uvBounds"
+			],
+			[
+				"nu",
+				"numberOfFittingTiles"
+			],
+			[
+				"Tw",
+				"TWEEN"
+			],
+			[
+				"cub",
+				"cubewerxWMS"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"Reco",
+				"RecordGroup"
+			],
+			[
+				"grou",
+				"group-selection-datagrid"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"gitadd",
+				"Git: Quick Add"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"flmv",
+				"File: Move"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"gitcommit",
+				"Git: Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"formatjs",
+				"Format: Javascript"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trimmer",
+				"Trimmer: Remove trailing whitespace from each line."
+			],
+			[
+				"gitcocu",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitcheck",
+				"Git: Checkout Current File"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"sublimelinte",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"gitcommi",
+				"Git: Quick Commit"
+			],
+			[
+				"git stash",
+				"Git: Stash"
+			],
+			[
+				"gitstash",
+				"Git: Stash"
+			],
+			[
+				"gitcheckoutfil",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntaxjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitch",
+				"Git: Checkout"
+			],
+			[
+				"gitche",
+				"Git: Checkout"
+			],
+			[
+				"format js",
+				"Format: Javascript"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"commitcurrent",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"gitcommitcurent",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"gitquiclcf",
+				"Git: Quick Log Current File"
+			],
+			[
+				"gitlog",
+				"Git: Log"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"gcofile",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gitpop",
+				"Git: Pop Stash"
+			],
+			[
+				"gitco",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitpopst",
+				"Git: Pop Stash"
+			],
+			[
+				"gitsta",
+				"Git: Pop Stash"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"filecopy",
+				"File: Copy Name"
+			],
+			[
+				"trimm",
+				"Trimmer: Remove trailing whitespace from each line."
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"gqs",
+				"Git: Quick Status"
+			],
+			[
+				"gitqst",
+				"Git: Quick Status"
+			],
+			[
+				"gitqs",
+				"Git: Quick Status"
+			],
+			[
+				"gitk",
+				"Gitk"
+			],
+			[
+				"git",
+				"Git: Diff"
+			],
+			[
+				"fcppp",
+				"File: Copy Path From Project"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"liveerl",
+				"LiveReload: Self test"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"setting u",
+				"Preferences: Settings - User"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pref user",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"git gr",
+				"Legit: Graft"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"webin",
+				"Web Inspector"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/shom/tests-ncwms/.gitignore",
+		"/D/shom_boutique/shom-boutique/src/main/scripts/git_post_merge.sh",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/DemoPage/controllers/IndexController.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/MapBuilder/Block/Map.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/MapBuilder/Block/Init.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/lib/Credis/tests/CredisTest.php",
+		"/D/shom_boutique/shom-boutique/src/main/config/local.json",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/.htaccess",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/index.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/etc/local.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/errors/local.xml",
+		"/D/shom_boutique/shom-boutique/src/main/config/default.json",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/core/Mage/Catalog/Block/Product/List/Toolbar.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php",
+		"/D/shom_boutique/shom-boutique/README.txt",
+		"/D/shom_boutique/shom-boutique/cookbooks/magento-env/recipes/default.rb",
+		"/D/shom_boutique/shom-boutique/cookbooks/magento-env/files/default/nginx/vhosts/diffusion.shom.fr.conf",
+		"/D/shom_boutique/shom-boutique/Vagrantfile",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/js/carto/src/shom.css",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/MapBuilder/etc/config.xml",
+		"/D/shom_boutique/shom-boutique/Gruntfile.js",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/skin/frontend/default/default/js/slider/zero_slider.js",
+		"/C/Program Files/SQLyog Community/test.sql",
+		"/D/shom_boutique/shom-boutique/cookbooks/magento-env/files/default/php-fpm/xdebug.ini",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/skin/frontend/default/shom/js/slider/zero_slider.js",
+		"/D/shom_boutique/shom-boutique/.gitignore",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/Mapbuilder/Block/Init.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/Mapbuilder/Block/Map.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/js/carto/widgets_shom.html",
+		"/D/UTILIS~1/a546116/AppData/Local/Temp/7zE20C.tmp/ol-whitespace.js",
+		"/D/tmp/ol-simple.js",
+		"/D/tmp/ol-whitespace.js",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/js/carto/deps/ol.js",
+		"/D/UTILIS~1/a546116/AppData/Local/Temp/7zECDF1.tmp/ol-whitespace.js",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/MapBuilder/Helper/Data.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/core/Mage/Catalog/Helper/Map.php",
+		"/D/shom_boutique/shom-boutique/src/main/resources/config.xml.hbs",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/etc/modules/Carto_Mapbuilder.xml",
+		"/D/shom_boutique/shom-boutique/src/main/config/qualif.json",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/DemoPage/etc/config.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/etc/modules/Carto_DemoPage.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/design/frontend/base/default/template/carto/demo.phtml",
+		"/D/winconfig/Apps/ST3/User/TodosTxt.py",
+		"/D/winconfig/Apps/ST3/User/TodosTxt.sublime_commands",
+		"/D/shom_boutique/shom-boutique/src/main/scripts/db_update_config.sh",
+		"/D/shom_boutique/shom-boutique/src/main/scripts/provision_env.sh.hbs",
+		"/D/shom_boutique/shom-boutique/Berksfile",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/js/carto/README.txt",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/cron.php",
+		"/D/openscalesgl/Gruntfile.js",
+		"/D/devops/shom-public-chef-nodejs/recipes/default.rb",
+		"/D/Utilisateurs/a546116/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/src/main/config/local.json",
+		"/D/shom_boutique/shom-boutique/dist/qualif/config.sql",
+		"/D/shom/tests-ncwms/cookbooks/skill-session-cookbook/recipes/default.rb",
+		"/D/devops/chef-wl-tomcat/providers/service.rb",
+		"/D/devops/shom-public-chef-tomcat/resources/service.rb",
+		"/D/shom/tests-ncwms/cookbooks/skill-session-cookbook/files/default/ncwms.tests.fr.conf",
+		"/D/devops/shom-public-chef-tomcat/providers/service.rb",
+		"/D/devops/shom-public-chef-tomcat/templates/default/server.xml.erb",
+		"/D/devops/chef-wl-jdk/recipes/default.rb",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/lib/credis/Client.php",
+		"/D/devops/chef-wl-tomcat/attributes/default.rb",
+		"/D/devops/chef-wl-tomcat/resources/service.rb",
+		"/D/devops/chef-wl-tomcat/templates/default/server.xml.erb",
+		"/D/devops/chef-wl-tomcat/recipes/default.rb",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/etc/modules/Carto_MapBuilder.xml",
+		"/D/shom/tests-ncwms/Berksfile",
+		"/D/shom/tests-ncwms/cookbooks/skill-session-cookbook/Berksfile",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/etc/modules/Cm_RedisSession.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/CartoHelper/helper/data.php",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/CartoHelper/etc/config.xml",
+		"/D/openscalesgl/tools/openscalesgl.sublime-project",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/design/frontend/base/default/template/page/1column.phtml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/design/frontend/base/default/layout/carto.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/design/frontend/base/default/layout/core.xml",
+		"/D/shom_boutique/shom-boutique/src/main/webapp/app/code/local/Carto/DemoPage/IndexController.php",
+		"/D/shom_boutique/shom-boutique/shom-boutique.sublime-project",
+		"/D/shom/visu-core/pom.xml",
+		"/D/shom/shom-visu-carto/visu-carto-core/.flexLibProperties",
+		"/D/Utilisateurs/a546116/AppData/Local/Macromedia/Flash Player/mm.cfg",
+		"/D/Utilisateurs/a546116/Downloads/explosifs_adapte291013.kml",
+		"/D/devops/shom-public-chef-nodejs/metadata.rb~",
+		"/D/shom/crv/pom.xml",
+		"/D/shom/crv/node_modules/shom-crv-commons/src/main/scripts/model/Location.js",
+		"/D/shom/crv/Vagrantfile",
+		"/D/shom/crv/Gruntfile.js",
+		"/D/shom/crv/src/main/scripts/lib/gis-utils.js",
+		"/D/shom/crv/cookbooks/crv/recipes/default.rb",
+		"/D/shom/crv/cookbooks/crv/files/default/nginx/vhosts/crv.shom.fr.conf",
+		"/D/shom/crv/cookbooks/crv/Berksfile",
+		"/D/shom/crv/cookbooks/crv/metadata.rb",
+		"/D/shom/crv/Berksfile",
+		"/D/shom/cda/cookbooks/skill-session-cookbook/files/default/bo-stats-front.shom.fr.conf",
+		"/D/shom/crv/src/main/config/local.js",
+		"/D/shom/cda/pom.xml",
+		"/D/shom/cda/Vagrantfile",
+		"/D/shom/cda/data.sql",
+		"/D/Utilisateurs/a546116/Documents/bo-magento-shom.css",
+		"/D/shom_boutique/shom-boutique/dist/__db.init",
+		"/D/shom_boutique/shom-boutique/cookbooks/magento-env/libraries/sql.rb",
+		"/D/shom_boutique/shom-boutique/dist/local/local.xml",
+		"/D/devops/openscalesgl/server.js",
+		"/D/devops/openscalesgl/app/index.html",
+		"/D/devops/openscalesgl/index.html",
+		"/D/openscalesgl/app/engine/scene/Camera.js",
+		"/D/openscalesgl/bower_components/leaflet/src/map/Map.js",
+		"/D/openscalesgl/app/controls/touch/input-touch-zoom.js",
+		"/D/openscalesgl/app/controls/touch/input-touch-drag.js",
+		"/D/openscalesgl/app/controls/mouse/input-mouse-freemove.js",
+		"/D/openscalesgl/app/controls/mouse/input-mouse-drag.js",
+		"/D/openscalesgl/app/extras/2d-engines/leaflet-4326.js",
+		"/D/openscalesgl/demos/world.html",
+		"/D/openscalesgl/demos/full.html",
+		"/D/openscalesgl/bower_components/gl-matrix/src/gl-matrix/vec4.js",
+		"/D/openscalesgl/bower_components/gl-matrix/src/gl-matrix/vec3.js",
+		"/D/openscalesgl/app/gis/Layers/layer.js",
+		"/D/openscalesgl/app/extras/2d-engines/leaflet-wmts.js",
+		"/D/openscalesgl/app/engine/objects/geometry/grid2.js",
+		"/D/openscalesgl/app/engine/objects/patch.js",
+		"/D/openscalesgl/app/engine/objects/tile.js",
+		"/D/openscalesgl/app/engine/renderers/rasterized-material/rasterized-material.vert",
+		"/D/openscalesgl/app/engine/renderers/picking-material/picking-material.vert",
+		"/D/openscalesgl/app/engine/renderers/buffer.js",
+		"/D/openscalesgl/app/commons/typed-array-utils.js",
+		"/D/openscalesgl/app/controls/mouse/input-mouse-zoom.js",
+		"/D/openscalesgl/app/extras/2d-engines/leaflet-virtual-context.js",
+		"/D/openscalesgl/app/extras/camera-controls/compass.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"",
+			"src/**",
+			"",
+			"app/**",
+			"",
+			"bower_components/leaflet",
+			"app/**",
+			"demos/**",
+			"",
+			"*commitment*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"setTimeout",
+			"CredisException",
+			"CredisExce",
+			"throw",
+			"design/pagination/pagination_frame",
+			"Carto_MapBuilder_Block_Init",
+			"function(p,a,c,k,e,r){e=funct",
+			"zero_slid",
+			"array",
+			" +",
+			"config:import",
+			"boutique_internet",
+			"configFor",
+			"tomcat_version",
+			">\n",
+			"sapm.labels.latitude",
+			"endOfPublication",
+			"CSV",
+			"computeBbox",
+			":Number",
+			"character",
+			"config_update",
+			"Layer.js",
+			"Layers",
+			"resolution",
+			"getZoomScale",
+			"CRS4326",
+			"rot[0] =",
+			");\n",
+			"rotateTo",
+			"cam.rot",
+			"3.14",
+			"patchesLoaded",
+			"yRelCoef | 0 === yRelCoef",
+			"console.log",
+			"localhost",
+			"				\"",
+			"jdk",
+			"inverse",
+			".as.orig",
+			"DrawPointToggleButton",
+			"function",
+			"mainTile",
+			"data",
+			"1",
+			"data",
+			"lvlShift",
+			"2",
+			"uvBounds",
+			"each",
+			"heightmap",
+			"heightmapArr",
+			"tile:heightmap:updated",
+			"stephanie.gentil",
+			"clearColor",
+			"a_heightmap_value",
+			"fog",
+			"moveTo",
+			"debu",
+			"this.layer",
+			"this.layers",
+			"heightmap",
+			"doTween",
+			"cam.pos",
+			"cam",
+			"pos[jj",
+			"unknown projection",
+			"layerPointToLatLng",
+			"pointToLatLng",
+			"addTilesFromCen",
+			"bounds",
+			"_adjustTilePoint",
+			"_getWrapTileNum",
+			"matrixIds",
+			"OpenLayersContext",
+			"zoomOffset",
+			"getTileInfo",
+			"Box",
+			"NODATA_IMG",
+			"noData",
+			"BBoxRenderer",
+			"tile",
+			"var Buffer",
+			"Buffer",
+			"var Buffer",
+			"1000",
+			"*.vert",
+			"scroll",
+			"cam.scrollWheel",
+			"fullWidth",
+			"180",
+			"width()",
+			"WMS130Layer",
+			"proxy",
+			"resolut",
+			"Minimap",
+			"onHeightmapD",
+			"onBigHeightmapDataReceived",
+			"setBufferArrayElevation",
+			"startsAt",
+			"/lib/",
+			"lib",
+			"/lib/",
+			"AbstractServiceOfferView",
+			"onStatusChanged",
+			"situation",
+			"isLastAchievedInstance",
+			"situation",
+			"proposeToReopenOffer",
+			"offer-instance:updateStatus:ok",
+			"offer-update-status-view",
+			"Nouvel engagement",
+			"btn-save",
+			"submitFormPayment",
+			"portal",
+			"admin",
+			"debugger",
+			"#hasPermission",
+			"hasPermission",
+			"policy-left-nav-consult",
+			"policy-nav-left-consult",
+			"step2",
+			"gitk",
+			"policy",
+			"NotImplementedMessage",
+			"Fonctionnalité non implémentée",
+			"Fonction non implémentée",
+			"authorizeEntry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"',\n",
+			"/app/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "TodosTxt.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"read",
+				"***\\README.txt"
+			],
+			[
+				"local",
+				"App\\app\\etc\\local.xml"
+			],
+			[
+				"index.",
+				"App\\index.php"
+			],
+			[
+				"htaccess",
+				"App\\app\\.htaccess"
+			],
+			[
+				"varien",
+				"App\\app\\code\\core\\Mage\\Core\\Model\\Session\\Abstract\\Varien.php"
+			],
+			[
+				"localjson",
+				"Config\\local.json"
+			],
+			[
+				"credis",
+				"App\\lib\\Credis\\tests\\CredisTest.php"
+			],
+			[
+				"errors/local",
+				"App\\errors\\local.xml"
+			],
+			[
+				"defaultrb",
+				"***\\cookbooks\\magento-env\\recipes\\default.rb"
+			],
+			[
+				"vagran",
+				"***\\Vagrantfile"
+			],
+			[
+				"vagrant",
+				"***\\Vagrantfile"
+			],
+			[
+				"defjson",
+				"Config\\default.json"
+			],
+			[
+				"cartoinit",
+				"App\\app\\code\\local\\Carto\\MapBuilder\\Block\\Init.php"
+			],
+			[
+				"blockmap.php",
+				"App\\app\\code\\local\\Carto\\MapBuilder\\Block\\Map.php"
+			],
+			[
+				"shom.css",
+				"App\\js\\carto\\src\\shom.css"
+			],
+			[
+				"cartoindexcon",
+				"App\\app\\code\\local\\Carto\\DemoPage\\controllers\\IndexController.php"
+			],
+			[
+				"",
+				"***\\src\\main\\webapp\\skin\\frontend\\default\\default\\js\\slider\\zero_slider.js"
+			],
+			[
+				"zerosliderjs",
+				"App\\skin\\frontend\\default\\shom\\js\\slider\\zero_slider.js"
+			],
+			[
+				"gruntfil",
+				"***\\Gruntfile.js"
+			],
+			[
+				"grunt",
+				"***\\Gruntfile.js"
+			],
+			[
+				"gitignore",
+				"***\\.gitignore"
+			],
+			[
+				"shomcss",
+				"App\\js\\carto\\src\\shom.css"
+			],
+			[
+				"map.php",
+				"App\\app\\code\\core\\Mage\\Catalog\\Helper\\Map.php"
+			],
+			[
+				"qualif",
+				"Config\\qualif.json"
+			],
+			[
+				"wid",
+				"App\\js\\carto\\widgets_shom.html"
+			],
+			[
+				"cartodemo",
+				"App\\app\\design\\frontend\\base\\default\\template\\carto\\demo.phtml"
+			],
+			[
+				"demopage",
+				"App\\app\\code\\local\\Carto\\DemoPage\\controllers\\IndexController.php"
+			],
+			[
+				"*.css",
+				"***\\src\\main\\webapp\\downloader\\skin\\boxes.css"
+			],
+			[
+				"gruntfile",
+				"***\\Gruntfile.js"
+			],
+			[
+				"credisclient",
+				"App\\lib\\credis\\Client.php"
+			],
+			[
+				"cartoxml",
+				"App\\app\\design\\frontend\\base\\default\\layout\\carto.xml"
+			],
+			[
+				"1c",
+				"App\\app\\design\\frontend\\base\\default\\template\\page\\1column.phtml"
+			],
+			[
+				"demo.p",
+				"App\\app\\design\\frontend\\base\\default\\template\\carto\\demo.phtml"
+			],
+			[
+				"defaul",
+				"cookbooks\\spm\\recipes\\default.rb"
+			],
+			[
+				"bus",
+				"node_modules\\shom-nodejs-entrepot-commons\\src\\main\\scripts\\service\\bus.js"
+			],
+			[
+				"location",
+				"node_modules\\shom-crv-commons\\src\\main\\scripts\\model\\Location.js"
+			],
+			[
+				"default",
+				"cookbooks\\skill-session-cookbook\\recipes\\default.rb"
+			],
+			[
+				"deliver",
+				"accesscontrol-webapp\\accesscontrol-webapp-statistiques\\delivery.sh"
+			],
+			[
+				"server.",
+				"App\\tools\\app_server\\server.js"
+			],
+			[
+				"full",
+				"Demos\\full.html"
+			],
+			[
+				"tile",
+				"Library\\engine\\objects\\tile.js"
+			],
+			[
+				"quad",
+				"Library\\engine\\objects\\quadtree.js"
+			],
+			[
+				"layer",
+				"Library\\gis\\Layers\\layer.js"
+			],
+			[
+				"leafletcon",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"leafletwmts",
+				"Extras\\2d-engines\\leaflet-wmts.js"
+			],
+			[
+				"vec3",
+				"App\\bower_components\\gl-matrix\\src\\gl-matrix\\vec3.js"
+			],
+			[
+				"vec4",
+				"App\\bower_components\\gl-matrix\\src\\gl-matrix\\vec4.js"
+			],
+			[
+				"world",
+				"Demos\\world.html"
+			],
+			[
+				"camera",
+				"Library\\engine\\scene\\Camera.js"
+			],
+			[
+				"leafletvi",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"qdtree",
+				"Library\\engine\\objects\\quadtree.js"
+			],
+			[
+				"cam",
+				"Library\\engine\\scene\\Camera.js"
+			],
+			[
+				"leafl",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"ful",
+				"Demos\\full.html"
+			],
+			[
+				"came",
+				"Library\\engine\\scene\\Camera.js"
+			],
+			[
+				"typedarra",
+				"Library\\commons\\typed-array-utils.js"
+			],
+			[
+				"buffer",
+				"Library\\engine\\renderers\\buffer.js"
+			],
+			[
+				"rastmatve",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.vert"
+			],
+			[
+				"raster",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.frag"
+			],
+			[
+				"patch",
+				"Library\\engine\\objects\\patch.js"
+			],
+			[
+				"leafletvir",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"basemater",
+				"Library\\engine\\renderers\\base\\material-base.js"
+			],
+			[
+				"grid",
+				"Library\\engine\\objects\\geometry\\grid.js"
+			],
+			[
+				"grid2",
+				"Library\\engine\\objects\\geometry\\grid2.js"
+			],
+			[
+				"demcac",
+				"Library\\engine\\dem-cache-manager.js"
+			],
+			[
+				"basema",
+				"Library\\engine\\renderers\\base\\material-base.js"
+			],
+			[
+				"dem",
+				"Library\\engine\\dem-cache-manager.js"
+			],
+			[
+				"geomutil",
+				"Library\\commons\\geom-utils.js"
+			],
+			[
+				"map",
+				"Library\\map.js"
+			],
+			[
+				"hgign",
+				".hgignore"
+			],
+			[
+				"vagra",
+				"Vagrantfile"
+			],
+			[
+				"store.php",
+				"src\\main\\webapp\\app\\code\\core\\Mage\\Core\\Model\\Store.php"
+			],
+			[
+				"rasterm",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.js"
+			],
+			[
+				"geomu",
+				"Library\\commons\\geom-utils.js"
+			],
+			[
+				"qdtre",
+				"Library\\engine\\objects\\quadtree.js"
+			],
+			[
+				"qa",
+				"Library\\engine\\objects\\quadtree.js"
+			],
+			[
+				"genericren",
+				"Library\\engine\\renderers\\generic-renderer.js"
+			],
+			[
+				"texture",
+				"Library\\engine\\renderers\\texture.js"
+			],
+			[
+				"tex",
+				"Library\\engine\\renderers\\texture.js"
+			],
+			[
+				"uisettings",
+				"Extras\\ui-core\\panel-settings.js"
+			],
+			[
+				"requestq",
+				"Library\\commons\\requests-queue.js"
+			],
+			[
+				"rastermtl",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.js"
+			],
+			[
+				"rasterized",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.vert"
+			],
+			[
+				"rasteri",
+				"Library\\engine\\renderers\\rasterized-material\\rasterized-material.vert"
+			],
+			[
+				"reunion",
+				"Demos\\reunion.html"
+			],
+			[
+				"watem",
+				"Extras\\water\\water-material.frag"
+			],
+			[
+				"watertile",
+				"Extras\\water\\water-tile-decorator.js"
+			],
+			[
+				"water",
+				"Extras\\water\\water-material.js"
+			],
+			[
+				"demca",
+				"Library\\engine\\dem-cache-manager.js"
+			],
+			[
+				"shom",
+				"Demos\\shom.html"
+			],
+			[
+				"index",
+				"Demos\\index.html"
+			],
+			[
+				"readme.md",
+				"App\\README.md"
+			],
+			[
+				"readm",
+				"App\\node_modules\\grunt\\node_modules\\colors\\ReadMe.md"
+			],
+			[
+				"server",
+				"App\\tools\\app_server\\server.js"
+			],
+			[
+				"compass",
+				"Extras\\camera-controls\\compass.css"
+			],
+			[
+				"coordiantescss",
+				"Extras\\ui-coordinates\\coordinates.css"
+			],
+			[
+				"toggle2d",
+				"Extras\\2d-engines\\toggle-2d-widget.js"
+			],
+			[
+				"leafvirtc",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"coordinatescsss",
+				"Extras\\ui-coordinates\\coordinates.css"
+			],
+			[
+				"uicoo",
+				"Extras\\ui-coordinates\\ui-coordinates.js"
+			],
+			[
+				"leaflhtml",
+				"Demos\\leaflet.html"
+			],
+			[
+				"minimap",
+				"Extras\\minimap\\minimap.js"
+			],
+			[
+				"inputde",
+				"Library\\controls\\inputs-desktop.js"
+			],
+			[
+				"coordinatesjs",
+				"Extras\\ui-coordinates\\ui-coordinates.js"
+			],
+			[
+				"camea",
+				"Library\\engine\\scene\\Camera.js"
+			],
+			[
+				"leafletjs",
+				"App\\bower_components\\leaflet\\dist\\leaflet.js"
+			],
+			[
+				"mainjs",
+				"Library\\main.js"
+			],
+			[
+				"main",
+				"Library\\main.js"
+			],
+			[
+				"appserver",
+				"App\\tools\\app_server\\server.js"
+			],
+			[
+				"leaf",
+				"Demos\\leaflet.html"
+			],
+			[
+				"leftletwms",
+				"App\\bower_components\\leaflet\\src\\layer\\tile\\TileLayer.WMS.js"
+			],
+			[
+				"tilelayer",
+				"App\\bower_components\\leaflet\\src\\layer\\tile\\TileLayer.js"
+			],
+			[
+				"leaflettilela",
+				"App\\bower_components\\leaflet\\src\\layer\\tile\\TileLayer.js"
+			],
+			[
+				"llvirtu",
+				"Extras\\2d-engines\\leaflet-virtual-context.js"
+			],
+			[
+				"quadtre",
+				"Library\\engine\\objects\\quadtree.js"
+			],
+			[
+				"tilel",
+				"App\\bower_components\\leaflet\\src\\layer\\tile\\TileLayer.js"
+			],
+			[
+				"leaflethtml",
+				"Demos\\leaflet.html"
+			],
+			[
+				"wmts.js",
+				"App\\bower_components\\OpenLayers\\lib\\OpenLayers\\Layer\\WMTS.js"
+			],
+			[
+				"wmts.",
+				"App\\bower_components\\OpenLayers\\tests\\Layer\\WMTS.html"
+			],
+			[
+				"openlayersdebug",
+				"App\\bower_components\\OpenLayers\\OpenLayers.debug.js"
+			],
+			[
+				"layerlocal",
+				"Library\\gis\\Layers\\layer-local.js"
+			],
+			[
+				"layerwms",
+				"Library\\gis\\Layers\\layer-wms.js"
+			],
+			[
+				"layerwmts",
+				"Library\\gis\\Layers\\layer-wmts.js"
+			],
+			[
+				"box",
+				"Library\\engine\\objects\\geometry\\box.js"
+			],
+			[
+				"fov",
+				"Library\\engine\\scene\\field-of-view.js"
+			],
+			[
+				"bbox",
+				"Extras\\debug-3d\\bbox-material.vert"
+			],
+			[
+				"citygmltile",
+				"Extras\\bldg-citygml\\citygml-tile-decorator.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\openscalesgl\\tools\\openscalesgl.sublime-project"
+			],
+			[
+				"op",
+				"D:\\openscalesgl\\tools\\openscalesgl.sublime-project"
+			],
+			[
+				"portal",
+				"D:\\P4\\p4-portal-webapp.sublime-project"
+			],
+			[
+				"p4por",
+				"D:\\P4\\p4-portal-webapp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"policyupdate",
+				"PolicyUpdateStep2View"
+			]
+		],
+		"width": 768.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

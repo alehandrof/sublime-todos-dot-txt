@@ -1,0 +1,8 @@
+[
+    { "keys": [ "ctrl+m", "ctrl+p" ], "command": "todos_dot_txt_increase_priority" },
+    { "keys": [ "ctrl+m", "ctrl+o" ], "command": "todos_dot_txt_decrease_priority" },
+    { "keys": [ "ctrl+m", "ctrl+m" ], "command": "todos_dot_txt_toggle_done" },
+    { "keys": [ "ctrl+m", "ctrl+s" ], "command": "todos_dot_txt_sort" },
+    { "keys": [ "ctrl+m", "ctrl+a" ], "command": "todos_dot_txt_add" },
+    { "keys": [ "ctrl+m", "ctrl+f" ], "command": "todos_dot_txt_search" }
+]
